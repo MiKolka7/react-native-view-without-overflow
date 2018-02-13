@@ -1,4 +1,4 @@
-package com.taimi.android;
+package com.viewWithoutOverflow;
 
 import android.content.Context;
 import android.view.ViewGroup;

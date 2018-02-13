@@ -1,4 +1,4 @@
-package com.taimi.android;
+package com.viewWithoutOverflow;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

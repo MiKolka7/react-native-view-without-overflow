@@ -1,4 +1,4 @@
-package com.taimi.android;
+package com.viewWithoutOverflow;
 
 import com.facebook.react.uimanager.ThemedReactContext;
 import com.facebook.react.uimanager.ViewGroupManager;
