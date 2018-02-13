@@ -1,0 +1,30 @@
+{
+  "name": "react-native-view-without-overflow",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "view-without-overflow",
+    "react",
+    "mobile",
+    "android"
+  ],
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
